@@ -1,0 +1,9 @@
+.env
+
+# vscode
+.history
+
+# Terraform
+terraform.tfstate
+terraform.tfstate.backup
+.terraform/
